@@ -4,6 +4,6 @@ class Teacher < User
 
   def teach
     return KNOWLEDGE.sample
-    # return "sample () method form : #{KNOWLEDGE.sample"
+    
   end
 end
